@@ -1,0 +1,14 @@
+[project]
+name = "metaclean"
+version = "1.0.0"
+description = "View and remove metadata from images and videos."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+
+[project.scripts]
+metaclean = "metaclean.cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
