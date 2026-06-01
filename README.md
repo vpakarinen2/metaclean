@@ -6,7 +6,7 @@ View and remove metadata from images and videos.
 
 - Python 3.11+
 - `ffmpeg` installed and available on `PATH`
-- `ExifTool` dir in the project root (https://exiftool.org)
+- `exiftool` dir in the project root (https://exiftool.org)
 
 ## Install FFmpeg (Windows)
 
