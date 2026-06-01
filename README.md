@@ -1,6 +1,6 @@
 # MetaClean 🧹
 
-View and remove metadata from images, videos and audio.
+View and remove metadata from images and videos.
 
 ## Requirements
 
