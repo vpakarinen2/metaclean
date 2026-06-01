@@ -35,7 +35,7 @@ metaclean view "image.jpg"
 metaclean clean "image.jpg"
 ```
 
-Put all the images you want to convert in the ``--input`` directory.
+Output directory will be created for the cleaned image/video.
 
 ## Troubleshooting
 If you get an error 'ffmpeg not found', use `where.exe` to find it on `PATH`:
